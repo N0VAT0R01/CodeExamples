@@ -50,3 +50,4 @@ if N >= M:
         print("образ не найден")
 else:
     print("образ не найден")
+# ссылка на видео с теорией https://www.youtube.com/watch?v=kvWFAZwZ_8U
