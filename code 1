@@ -19,3 +19,4 @@ for i in range(N-1):
         a[p] = t
 
 print(a)
+# ссылка на видео с теорией https://www.youtube.com/watch?v=eI1ZuXVOmng
