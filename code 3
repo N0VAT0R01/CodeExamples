@@ -19,4 +19,4 @@ a = [9, 5, -3, 4, 7, 8, -8]
 a = quick_sort(a)
 
 print(a)
-#
+# ссылка на видео с теорией https://www.youtube.com/watch?v=HjVE1ei28_I
